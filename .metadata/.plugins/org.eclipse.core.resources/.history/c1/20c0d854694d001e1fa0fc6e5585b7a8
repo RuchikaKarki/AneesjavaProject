@@ -1,0 +1,21 @@
+package FirstPackage;
+
+public class Addition {
+
+	public static void main(String[] args) {
+		
+		/*int a =10;
+		int b =50;
+		int c = a+b;
+		System.out.println(c);*/
+		
+		
+		int a, b, c;
+		a=10;
+		b=50;
+		c=a-b;
+		System.out.println("This is output value is  "+ c);
+		
+	}
+
+}

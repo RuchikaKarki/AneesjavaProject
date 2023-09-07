@@ -1,0 +1,15 @@
+package JavaPractice;
+
+public class JavaBasics {
+
+	public static void main(String[] args) {
+		
+		// boolean x = true;
+		
+		int x = 45;
+		
+		
+		
+	}
+
+}
